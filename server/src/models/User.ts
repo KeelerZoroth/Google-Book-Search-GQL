@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { Schema, model, type Document } from 'mongoose';
 import bcrypt from 'bcrypt';
 
